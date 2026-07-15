@@ -15,7 +15,6 @@ It leverages a multi-agent workflow (planning → architecture → implementatio
 - 🔄 Iterative file creation and updates  
 - 📁 Outputs a ready-to-run project inside `generated_project/`  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,7 @@ LovableClone is a lightweight prototype designed to explore how AI agents can:
 - Organize project structures  
 - Assist developers in rapid prototyping  
 
----
+
 
 ## 🚧 Future Improvements
 
