@@ -23,4 +23,23 @@ It leverages a multi-agent workflow (planning → architecture → implementatio
 - **LangChain** – LLM orchestration  
 - **LangGraph** – Multi-agent workflow management  
 - **Groq** – Fast LLM inference  
-- **Pydantic** – Data validation and structured schemas  
+- **Pydantic** – Data validation and structured schemas
+
+## 🎯 Purpose
+
+LovableClone is a lightweight prototype designed to explore how AI agents can:
+
+- Plan software systems  
+- Generate code autonomously  
+- Organize project structures  
+- Assist developers in rapid prototyping  
+
+---
+
+## 🚧 Future Improvements
+
+- Backend generation (APIs, databases)  
+- Deployment automation  
+- UI/UX enhancements  
+- Multi-framework support (React, Vue)  
+- Code refinement & testing agents  
